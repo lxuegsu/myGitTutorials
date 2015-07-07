@@ -57,6 +57,7 @@ and maintain the current behavior after the default changes, use:
 	   afb1b26..7e5d01e  master -> master
 
 7) If you modified something, and want to update the files on gitbub.com, use:
+$ git commit -m "more changes" myTutorials.txt 
 $ git push origin master
 Counting objects: 5, done.
 Delta compression using up to 4 threads.
