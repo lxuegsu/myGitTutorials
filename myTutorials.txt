@@ -1,0 +1,16 @@
+This is a simple tutorial to use github:
+
+1) Open your github homepage using browser:
+https://github.com/lxuegsu
+
+2) click "+" on top right to add a new repository
+   Name the repository, and initial it with README
+
+3) On your local PC, git clone the new repository
+$ git clone https://github.com/lxuegsu/myGitTutorials.git
+Cloning into 'myGitTutorials'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+
