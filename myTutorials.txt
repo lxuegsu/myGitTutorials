@@ -56,4 +56,13 @@ and maintain the current behavior after the default changes, use:
 	To https://github.com/lxuegsu/myGitTutorials.git
 	   afb1b26..7e5d01e  master -> master
 
-7)
+7) If you modified something, and want to update the files on gitbub.com, use:
+$ git push origin master
+Counting objects: 5, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.20 KiB | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/lxuegsu/myGitTutorials.git
+7e5d01e..410416c  master -> master
+
