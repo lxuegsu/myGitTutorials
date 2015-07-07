@@ -1,0 +1,5 @@
+svn co 
+svn add
+svn commit -m ""
+svn status
+
