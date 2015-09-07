@@ -1,4 +1,6 @@
 svn co  http://xxxxx/xxxx/file
+svn co  http://xxxxx/xxxx/file --depth immediates
+svn co  http://xxxxx/xxxx/file --depth infinity
 svn add file
 svn commit -m "" file
 svn status
